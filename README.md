@@ -33,5 +33,4 @@ This project analyzes customer churn behavior using Power BI to identify key fac
 - Tenure-Based Analysis
 - Interactive Filters & Visualizations
 
-## Dashboard Preview
-(Add dashboard screenshot here)
+
